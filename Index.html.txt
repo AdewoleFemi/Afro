@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Afro Kids Hair Care</title>
+
+<style>
+
+body{
+font-family:Arial;
+margin:0;
+background:#FFF5EE;
+text-align:center;
+}
+
+header{
+background:#FF7A2F;
+color:white;
+padding:60px 20px;
+}
+
+h1{
+font-size:42px;
+margin:0;
+}
+
+.subtitle{
+font-size:20px;
+margin-top:10px;
+}
+
+.container{
+max-width:1100px;
+margin:auto;
+padding:40px 20px;
+}
+
+.section{
+margin-top:60px;
+}
+
+.cards{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:30px;
+}
+
+.card{
+width:300px;
+background:white;
+border-radius:12px;
+overflow:hidden;
+box-shadow:0 8px 20px rgba(0,0,0,0.1);
+}
+
+.card img{
+width:100%;
+height:220px;
+object-fit:cover;
+}
+
+.card h3{
+margin:15px;
+}
+
+.tips{
+font-size:20px;
+line-height:1.8;
+}
+
+.button{
+background:#FF7A2F;
+color:white;
+padding:20px 40px;
+border-radius:10px;
+text-decoration:none;
+font-size:22px;
+display:inline-block;
+margin-top:40px;
+}
+
+.download{
+margin-top:30px;
+}
+
+.store{
+display:inline-block;
+margin:10px;
+padding:15px 25px;
+background:black;
+color:white;
+border-radius:8px;
+text-decoration:none;
+}
+
+footer{
+margin-top:80px;
+padding:30px;
+background:#eee;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Afro Kids Hair Care</h1>
+
+<div class="subtitle">
+Tipps & Frisuren für lockiges Kinderhaar
+</div>
+
+</header>
+
+<div class="container">
+
+<div class="section">
+
+<h2>Für alle Mütter ❤️</h2>
+
+<p>
+Diese Seite hilft Müttern ihre Kinder mit lockigen oder Afro Haaren zu pflegen.
+Egal ob schwarze oder weiße Mutter – jede Mama kann lernen,
+wie man Locken richtig pflegt und schöne Frisuren macht.
+</p>
+
+</div>
+
+<div class="section">
+
+<h2>Abendroutine für gesunde Locken</h2>
+
+<div class="tips">
+
+✔ Haare vorsichtig entwirren<br>
+✔ Feuchtigkeit auftragen<br>
+✔ Locken flechten oder binden<br>
+✔ Satin Haube oder Kissen nutzen
+
+</div>
+
+</div>
+
+<div class="section">
+
+<h2>Beliebte Kinder Frisuren</h2>
+
+<div class="cards">
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1595152772835-219674b2a8a6">
+<h3>Geflochtene Zöpfe</h3>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1605497788044-5a32c7078486">
+<h3>Locken Buns</h3>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1519238263530-99bdd11df2ea">
+<h3>Natürliche Locken</h3>
+</div>
+
+</div>
+
+</div>
+
+<div class="section">
+
+<h2>Unsere App</h2>
+
+<p>
+Mit der Afro Kids Hair Care App lernst du Schritt für Schritt:
+</p>
+
+<p>
+
+• Kinderfrisuren<br>
+• Haarpflege Tipps<br>
+• Abendroutine<br>
+• Video Tutorials
+
+</p>
+
+<a class="button" href="#">App öffnen</a>
+
+<div class="download">
+
+<a class="store">App Store (bald)</a>
+
+<a class="store">Google Play (bald)</a>
+
+</div>
+
+</div>
+
+</div>
+
+<footer>
+
+Afro Kids Hair Care<br>
+Kontakt / Impressum: Mikekel017@gmail.com
+
+</footer>
+
+</body>
+</html>
